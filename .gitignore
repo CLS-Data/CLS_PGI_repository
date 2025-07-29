@@ -1,0 +1,31 @@
+# .gitignore
+
+# files
+*.bam
+*.vcf
+*.hdf5
+*.fastq
+*.tar
+*.gz
+*.zip
+*.rds
+*.bed
+*.fam
+*.bim
+
+config.sh
+.env
+internal_notes.txt
+internal_notes_tim.txt
+
+#folders
+/genotypes/
+/pgi/
+/logs
+/reference/
+/backup/ 
+/cross_cohort/
+/snplists/
+/scripts_superceded/
+
+
