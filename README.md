@@ -44,7 +44,7 @@ The pipeline requires the following software packages to be installed:
 
    Pull the scripts from GitHub: 
 ```bash
-   git clone TO_ADD
+   git clone https://github.com/CLS-Data/CLS_PGI_repository.git
    ```
    Navigate to the script directory:
    ```bash
