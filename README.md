@@ -117,7 +117,7 @@ qsub scripts/x4.submit_pgi_pipeline.sh scripts/config.sh [cohort] results/cross_
 ```
 This script generates the PGIs for each cohort from the cleaned genotype data and GWAS summary statistics.
 
-### Step 6: Clean up large .valid files (optional)
+### Step 5: Clean up large .valid files (optional)
 PRSice creates a .valid file for each trait containing the SNPs used to estimate the PGI, which can be very large. Analysts may wish to use this (optional) script to remove valid files over a pre-specified size. 
 ```bash
 qsub scripts/x5.rm_valid.sh
