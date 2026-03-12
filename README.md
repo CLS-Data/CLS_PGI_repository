@@ -13,6 +13,7 @@ For queries and to report errors, please contact [Tim Morris](mailto:t.t.morris@
 ## Cohort background
 This pipeline was designed to run on the British cohort studies managed by the Centre for Longitudinal Studies. Further information about the cohorts can be found on the [CLS](https://cls.ucl.ac.uk/) website and in the [CLS genomics cohort profile paper](https://www.medrxiv.org/content/10.1101/2024.11.06.24316761v1). 
 
+## Further information on CLS omics
 The [CLS genomics GitHub website](https://cls-genetics.github.io/) contains detailed information about the genotyping, imputation and quality control of the underlying genetic resources used in this pipeline. 
 
 ## Overview
