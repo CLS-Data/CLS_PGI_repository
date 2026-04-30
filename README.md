@@ -10,8 +10,11 @@
 ## Contact
 For queries and to report errors, please contact [Tim Morris](mailto:t.t.morris@ucl.ac.uk).
 
+## User guide
+A user guide for the Polygenic Indices is [available at the UK Data Service](https://doc.ukdataservice.ac.uk/doc/9437/mrdoc/pdf/ukds_user_guide_cls_pgis.pdf).
+
 ## Cohort background
-This pipeline was designed to run on the British cohort studies managed by the Centre for Longitudinal Studies. Further information about the cohorts can be found on the [CLS](https://cls.ucl.ac.uk/) website and in the [CLS genomics cohort profile paper](https://www.medrxiv.org/content/10.1101/2024.11.06.24316761v1). 
+This pipeline was designed to run on the British cohort studies managed by the Centre for Longitudinal Studies. Further information about the cohorts can be found on the [CLS](https://cls.ucl.ac.uk/) website and in the [CLS genomics cohort profile paper](https://academic.oup.com/ije/article/54/5/dyaf141/8237599). 
 
 ## Further information on CLS omics
 The [CLS genomics GitHub website](https://cls-genetics.github.io/) contains detailed information about the genotyping, imputation and quality control of the underlying genetic resources used in this pipeline. 
@@ -162,4 +165,4 @@ scripts/x5.rm_valid.sh
 After the pipeline has been run once, scripts 3-5 can be run again for additional traits. 
 
 ## Citation
-If you use this pipeline, we ask that you cite the UK Data Service documentation that describes the PGIs generated from the pipeline.
+If you use this pipeline, we ask that you cite the [UK Data Service documentation](https://doc.ukdataservice.ac.uk/doc/9437/mrdoc/pdf/ukds_user_guide_cls_pgis.pdf) that describes the PGIs generated from the pipeline.
